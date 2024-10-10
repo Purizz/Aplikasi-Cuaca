@@ -1,0 +1,7 @@
+{
+  "name": "cuaca",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
